@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NicoleS3009">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=DBA24B&fontSize=44&height=100&width=700&text=Nicole%20S.%20//%20Cybersecurity" alt="Nicole S. // Cybersecurity" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A87B36&fontSize=44&height=100&width=700&text=Nicole%20S.%20//%20Cybersecurity" alt="Nicole S. // Cybersecurity" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nicoles3009.github.io/Cybersecurity-Portfolio/"><img src="https://img.shields.io/badge/🗂️_Ver_Portafolio_Completo-101826?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://nicoles3009.github.io/Cybersecurity-Portfolio/"><img src="https://img.shields.io/badge/🗂️_See_Complete_Portfolio-101826?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 ---
