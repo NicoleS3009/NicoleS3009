@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NicoleS3009">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=44&height=100&width=700&text=Nicole%20S.%20//%20Cybersecurity" alt="Nicole S. // Cybersecurity" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=DBA24B&fontSize=44&height=100&width=700&text=Nicole%20S.%20//%20Cybersecurity" alt="Nicole S. // Cybersecurity" />
   </a>
 </p>
 
